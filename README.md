@@ -12,7 +12,7 @@
 ## About
 
 Author support service provides LaTeX style files and `*.tex` file templates designed for International Press journal
-[Communications in Information and Systems (CIS)](http://www.intlpress.com/CIS/) articles.
+[Communications in Information and Systems (CIS)](http://www.intlpress.com/CIS) articles.
 
 ## Package content
 
